@@ -1,0 +1,15 @@
+E:\VS Projects\fuzzbuzz\fuzzbuzz\bin\Debug\net6.0\fuzzbuzz.exe
+E:\VS Projects\fuzzbuzz\fuzzbuzz\bin\Debug\net6.0\fuzzbuzz.deps.json
+E:\VS Projects\fuzzbuzz\fuzzbuzz\bin\Debug\net6.0\fuzzbuzz.runtimeconfig.json
+E:\VS Projects\fuzzbuzz\fuzzbuzz\bin\Debug\net6.0\fuzzbuzz.dll
+E:\VS Projects\fuzzbuzz\fuzzbuzz\bin\Debug\net6.0\fuzzbuzz.pdb
+E:\VS Projects\fuzzbuzz\fuzzbuzz\obj\Debug\net6.0\fuzzbuzz.csproj.AssemblyReference.cache
+E:\VS Projects\fuzzbuzz\fuzzbuzz\obj\Debug\net6.0\fuzzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS Projects\fuzzbuzz\fuzzbuzz\obj\Debug\net6.0\fuzzbuzz.AssemblyInfoInputs.cache
+E:\VS Projects\fuzzbuzz\fuzzbuzz\obj\Debug\net6.0\fuzzbuzz.AssemblyInfo.cs
+E:\VS Projects\fuzzbuzz\fuzzbuzz\obj\Debug\net6.0\fuzzbuzz.csproj.CoreCompileInputs.cache
+E:\VS Projects\fuzzbuzz\fuzzbuzz\obj\Debug\net6.0\fuzzbuzz.dll
+E:\VS Projects\fuzzbuzz\fuzzbuzz\obj\Debug\net6.0\refint\fuzzbuzz.dll
+E:\VS Projects\fuzzbuzz\fuzzbuzz\obj\Debug\net6.0\fuzzbuzz.pdb
+E:\VS Projects\fuzzbuzz\fuzzbuzz\obj\Debug\net6.0\fuzzbuzz.genruntimeconfig.cache
+E:\VS Projects\fuzzbuzz\fuzzbuzz\obj\Debug\net6.0\ref\fuzzbuzz.dll
