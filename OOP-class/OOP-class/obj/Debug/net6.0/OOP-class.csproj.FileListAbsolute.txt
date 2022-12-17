@@ -1,0 +1,15 @@
+E:\VS Projects\OOP-class\OOP-class\obj\Debug\net6.0\OOP-class.csproj.AssemblyReference.cache
+E:\VS Projects\OOP-class\OOP-class\obj\Debug\net6.0\OOP-class.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS Projects\OOP-class\OOP-class\obj\Debug\net6.0\OOP-class.AssemblyInfoInputs.cache
+E:\VS Projects\OOP-class\OOP-class\obj\Debug\net6.0\OOP-class.AssemblyInfo.cs
+E:\VS Projects\OOP-class\OOP-class\obj\Debug\net6.0\OOP-class.csproj.CoreCompileInputs.cache
+E:\VS Projects\OOP-class\OOP-class\bin\Debug\net6.0\OOP-class.exe
+E:\VS Projects\OOP-class\OOP-class\bin\Debug\net6.0\OOP-class.deps.json
+E:\VS Projects\OOP-class\OOP-class\bin\Debug\net6.0\OOP-class.runtimeconfig.json
+E:\VS Projects\OOP-class\OOP-class\bin\Debug\net6.0\OOP-class.dll
+E:\VS Projects\OOP-class\OOP-class\bin\Debug\net6.0\OOP-class.pdb
+E:\VS Projects\OOP-class\OOP-class\obj\Debug\net6.0\OOP-class.dll
+E:\VS Projects\OOP-class\OOP-class\obj\Debug\net6.0\refint\OOP-class.dll
+E:\VS Projects\OOP-class\OOP-class\obj\Debug\net6.0\OOP-class.pdb
+E:\VS Projects\OOP-class\OOP-class\obj\Debug\net6.0\OOP-class.genruntimeconfig.cache
+E:\VS Projects\OOP-class\OOP-class\obj\Debug\net6.0\ref\OOP-class.dll
