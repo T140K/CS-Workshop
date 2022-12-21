@@ -1,0 +1,15 @@
+C:\VS project\OOP-arv\OOP-arv\bin\Debug\net6.0\OOP-arv.exe
+C:\VS project\OOP-arv\OOP-arv\bin\Debug\net6.0\OOP-arv.deps.json
+C:\VS project\OOP-arv\OOP-arv\bin\Debug\net6.0\OOP-arv.runtimeconfig.json
+C:\VS project\OOP-arv\OOP-arv\bin\Debug\net6.0\OOP-arv.dll
+C:\VS project\OOP-arv\OOP-arv\bin\Debug\net6.0\OOP-arv.pdb
+C:\VS project\OOP-arv\OOP-arv\obj\Debug\net6.0\OOP-arv.csproj.AssemblyReference.cache
+C:\VS project\OOP-arv\OOP-arv\obj\Debug\net6.0\OOP-arv.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS project\OOP-arv\OOP-arv\obj\Debug\net6.0\OOP-arv.AssemblyInfoInputs.cache
+C:\VS project\OOP-arv\OOP-arv\obj\Debug\net6.0\OOP-arv.AssemblyInfo.cs
+C:\VS project\OOP-arv\OOP-arv\obj\Debug\net6.0\OOP-arv.csproj.CoreCompileInputs.cache
+C:\VS project\OOP-arv\OOP-arv\obj\Debug\net6.0\OOP-arv.dll
+C:\VS project\OOP-arv\OOP-arv\obj\Debug\net6.0\refint\OOP-arv.dll
+C:\VS project\OOP-arv\OOP-arv\obj\Debug\net6.0\OOP-arv.pdb
+C:\VS project\OOP-arv\OOP-arv\obj\Debug\net6.0\OOP-arv.genruntimeconfig.cache
+C:\VS project\OOP-arv\OOP-arv\obj\Debug\net6.0\ref\OOP-arv.dll
