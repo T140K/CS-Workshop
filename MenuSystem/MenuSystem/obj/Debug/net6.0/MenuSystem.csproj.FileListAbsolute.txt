@@ -1,0 +1,15 @@
+C:\VS project\MenuSystem\MenuSystem\bin\Debug\net6.0\MenuSystem.exe
+C:\VS project\MenuSystem\MenuSystem\bin\Debug\net6.0\MenuSystem.deps.json
+C:\VS project\MenuSystem\MenuSystem\bin\Debug\net6.0\MenuSystem.runtimeconfig.json
+C:\VS project\MenuSystem\MenuSystem\bin\Debug\net6.0\MenuSystem.dll
+C:\VS project\MenuSystem\MenuSystem\bin\Debug\net6.0\MenuSystem.pdb
+C:\VS project\MenuSystem\MenuSystem\obj\Debug\net6.0\MenuSystem.csproj.AssemblyReference.cache
+C:\VS project\MenuSystem\MenuSystem\obj\Debug\net6.0\MenuSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS project\MenuSystem\MenuSystem\obj\Debug\net6.0\MenuSystem.AssemblyInfoInputs.cache
+C:\VS project\MenuSystem\MenuSystem\obj\Debug\net6.0\MenuSystem.AssemblyInfo.cs
+C:\VS project\MenuSystem\MenuSystem\obj\Debug\net6.0\MenuSystem.csproj.CoreCompileInputs.cache
+C:\VS project\MenuSystem\MenuSystem\obj\Debug\net6.0\MenuSystem.dll
+C:\VS project\MenuSystem\MenuSystem\obj\Debug\net6.0\refint\MenuSystem.dll
+C:\VS project\MenuSystem\MenuSystem\obj\Debug\net6.0\MenuSystem.pdb
+C:\VS project\MenuSystem\MenuSystem\obj\Debug\net6.0\MenuSystem.genruntimeconfig.cache
+C:\VS project\MenuSystem\MenuSystem\obj\Debug\net6.0\ref\MenuSystem.dll
